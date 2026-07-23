@@ -1,6 +1,6 @@
 # Perfil de un Aprendiz SENA
 
-## 1. Nombre del aprendiz
+## 1. Nombre 
 **Mariana López Palencia**
 
 ## 2. Número de ficha
